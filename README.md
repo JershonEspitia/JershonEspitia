@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jershon Orlando Espitia Rey</h1>
-<h3 align="center">I'm 26 years old, I'm from Bucaramanga, Santander - Colombia. CampusLand's camper.</h3>
+<h3>I'm 26 years old.</h3>
+<h3>I'm from Bucaramanga, Santander - Colombia.</h3>
+<h3>System Engineer, passionate about coding. :sunglasses:</h3>
 
 - I’m currently working on [ProjectPageApex](https://github.com/JershonEspitia/ProjectPageApex)
 
 - I’m currently working on [ProyectoInformativoDesarme](https://github.com/DavidSantos004/ProyectoInformativoDesarme)
-
-- How to reach me **jershonespitiarey@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
